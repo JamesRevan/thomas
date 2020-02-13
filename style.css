@@ -5,7 +5,7 @@
 }
 
 body {
-    background: linear-gradient(to left, #833ab4, #fd1d1d, #fcb045);
+    background: linear-gradient(to left, #ED4264, #FFEDBC);
 
 }
 
@@ -49,7 +49,7 @@ section {
 
 .hero {
   height: 60%;
-  width: 100%;
+  width: 80%;
   position: relative;
 }
 
